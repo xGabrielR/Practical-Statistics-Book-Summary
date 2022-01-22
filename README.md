@@ -1,2 +1,2 @@
-# Practical-Statistics_Book_Summary
+# Practical Statistics Book Summary
 Personal Summary of Practical Statistic for Data Science Book
