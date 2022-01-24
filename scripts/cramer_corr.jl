@@ -1,5 +1,4 @@
-x = [collect(-100:20:0)];
-y = [collect(0:20:100)];
+using HypothesisTests, FreqTables
 
 """
     cramer_corr function computes X, Y One Dims vector or matrix and return correlation of the two vectors, used on categorical data.
