@@ -1,2 +1,3 @@
 # Practical Statistics Book Summary
-Personal Summary of Practical Statistic for Data Science Book & Others Statistic Concepts.
+<p>Personal Summary of Practical Statistic for Data Science Book & Others Statistic Concepts.</p>
+<p>The </p>
