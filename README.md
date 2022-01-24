@@ -6,8 +6,10 @@
 
 ## 1.1. Folders Info
 <p>In The <a href='https://github.com/xGabrielR/Practical-Statistics-Book-Summary/tree/main/notebooks'>📚 notebooks folder</a> You find only one notebook about chapter 1-3, in the future I will separate the chapters in different notebooks</p>
+<p></p>
 
-### 1.1.1. Chapters
+
+## 1.2. Chapters List
 <ul>
   <dl>
     <dt>Chapter 1.</dt>
@@ -20,3 +22,4 @@
       <dd>...</dd>
   </dl>
 </ul>
+
