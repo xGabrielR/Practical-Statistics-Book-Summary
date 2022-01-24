@@ -38,7 +38,7 @@ function pearson_corr(x, y)
     return compute_r(x, y)
 end
 
-
+using HypothesisTests, FreqTables
 """
     cramer_corr function computes X, Y One Dims vector or matrix and return correlation of the two vectors, used on categorical data.
 """
