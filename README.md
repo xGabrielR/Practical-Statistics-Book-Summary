@@ -9,6 +9,7 @@
 <p>In the <a href='https://github.com/xGabrielR/Practical-Statistics-Book-Summary/tree/main/data'>💾 data folder</a> You find all datasets used in notebook.</p>
 <p>In the <a href='https://github.com/xGabrielR/Practical-Statistics-Book-Summary/tree/main/scripts'>📃 script folder</a> You find simple scripts in Julia, same of notebooks, but with .jl extension.</p>
 <p>In the <a href='https://github.com/xGabrielR/Practical-Statistics-Book-Summary/tree/main/pdf'>📕 pdf folder</a> You find the notebook in PDF.</p>
+<p>In the <a href='https://github.com/xGabrielR/Practical-Statistics-Book-Summary/tree/main/img'>📸 img folder</a> Cool plots i have saved.</p>
 
 ## 1.2. Chapters List
 <ul>
