@@ -14,6 +14,8 @@
 ## 1.2. Chapters List
 <ul>
   <dl>
+    <dt>Chapter 0.</dt>
+      <dd>Introduction to Calculus.</dd>
     <dt>Chapter 1.</dt>
       <dd>Correlaction & Hexbin plots.</dd>
     <dt>Chapter 2.</dt>
