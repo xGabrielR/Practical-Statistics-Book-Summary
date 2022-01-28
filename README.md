@@ -1,4 +1,7 @@
 # 1.0. Practical Statistics Book Summary
+
+![ps](https://user-images.githubusercontent.com/75986085/151636511-00578527-86f3-4862-876b-ff77ad36aa9e.png)
+
 <p>Personal Summary of Practical Statistic for Data Science Book & Others Statistic Concepts.</p>
 <p>The <a href='https://www.oreilly.com/library/view/practical-statistics-for/9781491952955'>📚 Practical Statistic for Data Science</a> book is list of important concepts that a math book with exercises for example, the book covers several important topics that are not often used in data science projects, starting with this book I will put other concepts such as bootstrap into practice.<br></p>
 <p>I'm developing this repository to learn the Julia language and also apply some concepts I didn't know about this book. You'll likely see a lot more in the book than in my repository, as I chose to cite the things I really not knew in the book, including than important statistical concepts like distributions with their formulas that the book doesn't have.</p>
